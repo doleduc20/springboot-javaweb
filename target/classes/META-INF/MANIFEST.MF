@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: websitetintuc-springboot
+Implementation-Version: 1.0
+Built-By: Duc
+Implementation-Vendor-Id: com.websitetintuc
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/websitetint
+ uc-springboot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
